@@ -18,7 +18,7 @@
 
 * [@twittboxJJ Twitter](https://twitter.com/twittboxJJ)
 
-* [johnnyy.swift LinkedIn](https://www.instagram.com/johnnyy.swift/)
+* [johnnyy.swift Instagram](https://www.instagram.com/johnnyy.swift/)
 
 * [Jonathan Dowdell LinkedIn](https://www.linkedin.com/in/jonathan-dowdell-09719a180/)
 
