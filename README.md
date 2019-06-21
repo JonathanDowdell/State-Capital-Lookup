@@ -12,7 +12,7 @@
 
 ## What I Learned
 
-* Vanilla JS
+* The Beauity of Vanilla JS
 
 ## Contact Me (Jonathan)
 
