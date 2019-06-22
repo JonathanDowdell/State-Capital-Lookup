@@ -2,9 +2,9 @@
 
 > Quick Autcomplete App with JS & JSON, Traversy Media Youtube
 
-## Install/Configure/Deploy
+## Why?
 
-`>npm`
+> General education classes can at times take away your creativity. Becuase of that it's good to stay active with projects like this.
 
 ## Resources/Dependencies
 
